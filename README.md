@@ -1,5 +1,5 @@
 ## Link al Buscador de peliculas:
-[Search Movie](javascript-buscador-peliculas.netlify.app)
+[Search Movie](https://javascript-buscador-peliculas.netlify.app/)
 
 
 # Tutorial de búsqueda de películas con JavaScript
