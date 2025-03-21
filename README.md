@@ -1,3 +1,6 @@
+## APP BUSQUEDA DE PELICULAS
+Se realizo un aplicacion que se comunica con una api para obtener datos de una pelicula determinada!:
+
 ## Link al Buscador de peliculas:
 [Search Movie](https://javascript-buscador-peliculas.netlify.app/)
 
